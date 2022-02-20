@@ -2,9 +2,9 @@
 This project has also web app made by my friend.
 
 Documentation of the functions (it is also in file):
- withoutABS funcion simulating vehicle braking without ABS system
- recives as follow:
- m - mass of vehicle
+withoutABS funcion simulating vehicle braking without ABS system
+recives as follow:
+m - mass of vehicle
  J - interia of wheel
  r - radius of wheel
  g - gravitational acceleration
