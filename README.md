@@ -1,5 +1,5 @@
 # Breaking-simulation-with-ABS-using-P-PID-regulators
-This project has also web app made by my friend.
+This project has also web app made by my friend (but unfortunately the code is on his computer).
 
 Documentation of the functions (it is also in file):
 
